@@ -5,7 +5,8 @@ Meu nome é Rerisson
 - Estou estudando na [Alura](https://www.alura.com.br)
 - Uso o Github para compartilhar os projetos do Alura
 
-### Contato: 00001116212742@al.educacao.sp.gov.br
+### Contato
+00001116212742@al.educacao.sp.gov.br
 
 <!--
 **RerissonAluno/RerissonAluno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
